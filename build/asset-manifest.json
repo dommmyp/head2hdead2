@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec773009.css",
+    "main.js": "/static/js/main.59bb2818.js",
+    "static/js/787.e9e3f692.chunk.js": "/static/js/787.e9e3f692.chunk.js",
+    "static/media/crosswordPic.png": "/static/media/crosswordPic.c69ed2514d8f846909e0.png",
+    "static/media/H2Hlogo.png": "/static/media/H2Hlogo.bb43c8d624cc8131a43e.png",
+    "index.html": "/index.html",
+    "main.ec773009.css.map": "/static/css/main.ec773009.css.map",
+    "main.59bb2818.js.map": "/static/js/main.59bb2818.js.map",
+    "787.e9e3f692.chunk.js.map": "/static/js/787.e9e3f692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec773009.css",
+    "static/js/main.59bb2818.js"
+  ]
+}
